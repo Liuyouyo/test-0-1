@@ -1,0 +1,16 @@
+body, h3,p,dl,dt,dd{
+	margin:0;
+}
+a{
+	text-decoration: none;
+	/*去掉a标签手指按下时高亮背景*/
+	-webkit-tap-highlight-color: transparent;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+img{
+	vertical-align: top;
+}
